@@ -2,8 +2,6 @@
 
 The **Animal Emotion Detector** is a full-stack AI-powered system that identifies the emotional state of animals (e.g., happy, sad, angry) from their facial expressions using a trained Machine learning model.
 
-This project combines a modern web interface built with **Next.js + TypeScript** and a backend powered by **Python (FastAPI) + Keras** for ML inference.
-
 ---
 
 ## 📸 Demo
