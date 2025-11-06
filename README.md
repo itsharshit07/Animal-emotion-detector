@@ -19,7 +19,7 @@ The **Animal Emotion Detector** is a full-stack AI-powered system that identifie
 
 ### 🔶 Backend
 - Python
-- FastAPI (specify which one you used)
+- FastAPI 
 - Keras (TensorFlow backend)
 - NumPy (for preprocessing)
 
